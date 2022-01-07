@@ -38,7 +38,7 @@ main {
 }
 
 main .image {
-  height:23rem;
+  height:25rem;
   overflow: hidden;
   position: relative;
 }
@@ -78,7 +78,7 @@ main .image img {
 main .content h3 {
   color: var(--white--color);
   padding: 1.4rem 0 1.3rem;
-  font-size: 1.5rem;
+  font-size: 2rem;
   cursor: pointer;
 }
 
@@ -88,7 +88,7 @@ main .content h3:hover {
 
 main .content p {
   color: var(--Soft-blue);
-  font-size: 1.3rem;
+  font-size: 1.6rem;
   line-height: 1.5;
 }
 
@@ -106,13 +106,13 @@ main .icons .icon {
 }
 
 main .icon img {
-  margin-right: .8rem;
+  margin-right: 1rem;
 }
 
 main .icon span {
   color: var(--cyan-color);
   font-weight: bolder;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 main .icon:nth-child(2) span {
@@ -133,7 +133,7 @@ main .creater img {
 }
 
 main .creater p {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   word-spacing: 0.2rem;
 }
 
